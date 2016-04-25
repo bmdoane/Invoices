@@ -1,0 +1,8 @@
+C:\Users\bmdoa\workspace\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\bmdoa\workspace\Invoice\Invoice\bin\Debug\Invoices.mdf
+C:\Users\bmdoa\workspace\Invoice\Invoice\bin\Debug\Invoices_log.ldf
+C:\Users\bmdoa\workspace\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\bmdoa\workspace\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\bmdoa\workspace\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\bmdoa\workspace\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\bmdoa\workspace\Invoice\Invoice\obj\Debug\Invoice.pdb
